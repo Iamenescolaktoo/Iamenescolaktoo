@@ -1,7 +1,8 @@
 # Hi, I’m **Hasan Enes Çolak** 👋
 
-**Computer Science student (UIUC) • Systems & Python/C++ • IoT/ML tinkerer**
-I build small, reliable tools—from Raspberry‑Pi robots to data/ML services—and iterate fast with measurement and docs.
+**B.S. in Computer Science — University of Illinois Urbana‑Champaign (Grainger College of Engineering), May 2026**
+Clubs: ACM @ UIUC
+Relevant Coursework: Systems Programming, Database Systems, IoT, Algorithms, Distributed Systems
 
 --- 
 
@@ -35,22 +36,6 @@ I build small, reliable tools—from Raspberry‑Pi robots to data/ML services�
 **Research Assistant (GEARUP) — UIUC (Jun 2024 – May 2025)**
 • Research + data interpretation for computing curricula; feedback loops and UX‑driven improvements.
 
-**Engineering Tutor — Wilbur Wright College (Aug 2022 – May 2024, Chicago, IL)**
-• Mentored 5+ students/semester in C++; ran weekly recitations and open labs.
-
-## 🎓 Education
-
-**B.S. in Computer Science — University of Illinois Urbana‑Champaign (Grainger College of Engineering), May 2026**
-Clubs: ACM @ UIUC
-Relevant Coursework: Systems Programming, Database Systems, IoT, Algorithms, Distributed Systems
-
----
-
-## 🎯 How I work
-
-* **Start simple, instrument early.** Logs > guesses.
-* **Document decisions.** What changed, why, and the trade‑offs.
-* **Ship in small slices.** Prototypes beat perfect plans.
 
 ---
 
