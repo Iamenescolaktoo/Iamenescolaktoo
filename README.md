@@ -3,18 +3,7 @@
 **Computer Science student (UIUC) • Systems & Python/C++ • IoT/ML tinkerer**
 I build small, reliable tools—from Raspberry‑Pi robots to data/ML services—and iterate fast with measurement and docs.
 
----
-
-## 🔗 Quick Links
-
-* 💼 **LinkedIn:** [https://linkedin.com/in/iamenescolak](https://linkedin.com/in/iamenescolak)
-* 🧑‍💻 **GitHub:** [https://github.com/lamenescolaktoo](https://github.com/lamenescolaktoo)
-* ✉️ **Email:** [hasancowork@gmail.com](mailto:hasancowork@gmail.com)
-* 📞 **Phone:** +1 (812) 391‑0880
-
-> These match the contact details on my resume.
-
----
+--- 
 
 ## 📌 Featured Projects
 
@@ -34,16 +23,6 @@ Risk‑aware news monitoring pipeline: scrape → classify → alert.
 
 Interactive CPU selector that teaches cores/threads/IPC.
 **Repo:** `PickYourProcessor` • **Stack:** HTML/CSS/JS
-
-### Stock Exchange Simulation → *rename freely*
-
-Order‑book simulator with portfolio P/L and performance‑minded data structures.
-**Repo:** `Stock-Exchange-Simulation` • **Stack:** C++
-
-<!-- Optional private work
-### dropTableHasan (private)
-Brief one‑liner here if/when sharable.
--->
 
 ---
 
