@@ -6,9 +6,6 @@ Relevant Coursework: Systems Programming, Database Systems, IoT, Algorithms, Dis
 
 --- 
 
-## 📌 Featured Projects
-
-
 
 ---
 
@@ -46,10 +43,8 @@ Relevant Coursework: Systems Programming, Database Systems, IoT, Algorithms, Dis
 **Frameworks/Libs:** FastAPI • Django • OpenCV • NumPy/Pandas • TFLite
 **Tools:** VS Code • Git • Nginx • MongoDB/Postgres
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white"/>
-</p>
+
+
+## 📌 Featured Projects
+
+
