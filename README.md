@@ -29,18 +29,6 @@ Relevant Coursework: Systems Programming, Database Systems, IoT, Algorithms, Dis
 * **GEAR UP Research Assignment → ACM Digital Library:** [doi:10.1145/3632620.3671123](https://dl.acm.org/doi/10.1145/3632620.3671123)
   *Focus:* computing education research methods; literature synthesis and data interpretation.
 
-### Research — Tech & Methods
-
-* **Tools:** Python (Pandas, Jupyter), Excel/Google Sheets, LaTeX/Overleaf, Zotero, Markdown
-* **Methods:** literature review, qualitative coding & memoing, descriptive stats, data cleaning, visualization (matplotlib), reproducible notes & version control (Git)
-
-### Research — Soft Skills
-
-* Stakeholder communication with faculty & program leads
-* Clear technical writing (problem, method, findings, implications)
-* Collaboration & feedback loops; deadline-driven execution
-* Attention to detail, data ethics, and citation hygiene
-
 ---
 
 
