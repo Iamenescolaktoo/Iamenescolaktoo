@@ -7,11 +7,6 @@ I build small, reliable tools—from Raspberry‑Pi robots to data/ML services�
 
 ## 📌 Featured Projects
 
-[![web-content-searcher](https://github-readme-stats.vercel.app/api/pin/?username=lamenescolaktoo&repo=web-content-searcher&theme=transparent)](https://github.com/lamenescolaktoo/web-content-searcher)
-[![Enes-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=lamenescolaktoo&repo=Enes-Portfolio&theme=transparent)](https://github.com/lamenescolaktoo/Enes-Portfolio)
-
-[![PickYourProcessor](https://github-readme-stats.vercel.app/api/pin/?username=lamenescolaktoo&repo=PickYourProcessor&theme=transparent)](https://github.com/lamenescolaktoo/PickYourProcessor)
-[![Stock-Exchange-Simulation](https://github-readme-stats.vercel.app/api/pin/?username=lamenescolaktoo&repo=Stock-Exchange-Simulation&theme=transparent)](https://github.com/lamenescolaktoo/Stock-Exchange-Simulation)
 
 
 ---
@@ -24,19 +19,6 @@ I build small, reliable tools—from Raspberry‑Pi robots to data/ML services�
 
 ---
 
-## 📈 GitHub at a glance
-
-<!-- These images are popular and auto‑update. If they don’t load on your network, remove them. -->
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lamenescolaktoo&show_icons=true&theme=transparent"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamenescolaktoo&layout=compact&theme=transparent"/>
-</p>
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=lamenescolaktoo&theme=transparent"/>
-</p>
-
----
 
 ## 💼 Experience (selected)
 
