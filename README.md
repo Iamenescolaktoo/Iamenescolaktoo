@@ -7,22 +7,12 @@ I build small, reliable tools—from Raspberry‑Pi robots to data/ML services�
 
 ## 📌 Featured Projects
 
-> Live repos from this profile. **You can change the display name** on each line without renaming the repo.
+[![web-content-searcher](https://github-readme-stats.vercel.app/api/pin/?username=lamenescolaktoo&repo=web-content-searcher&theme=transparent)](https://github.com/lamenescolaktoo/web-content-searcher)
+[![Enes-Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=lamenescolaktoo&repo=Enes-Portfolio&theme=transparent)](https://github.com/lamenescolaktoo/Enes-Portfolio)
 
-### Enes‑Portfolio → *rename freely*
+[![PickYourProcessor](https://github-readme-stats.vercel.app/api/pin/?username=lamenescolaktoo&repo=PickYourProcessor&theme=transparent)](https://github.com/lamenescolaktoo/PickYourProcessor)
+[![Stock-Exchange-Simulation](https://github-readme-stats.vercel.app/api/pin/?username=lamenescolaktoo&repo=Stock-Exchange-Simulation&theme=transparent)](https://github.com/lamenescolaktoo/Stock-Exchange-Simulation)
 
-Modern, mobile‑first personal site with reusable section components.
-**Repo:** `Enes-Portfolio` • **Stack:** HTML/CSS
-
-### Web‑Content‑Searcher → *rename freely*
-
-Risk‑aware news monitoring pipeline: scrape → classify → alert.
-**Repo:** `web-content-searcher` • **Stack:** Python, FastAPI, Docker, Mongo
-
-### Pick Your Processor → *rename freely*
-
-Interactive CPU selector that teaches cores/threads/IPC.
-**Repo:** `PickYourProcessor` • **Stack:** HTML/CSS/JS
 
 ---
 
