@@ -6,18 +6,6 @@ Relevant Coursework: Systems Programming, Database Systems, IoT, Algorithms, Dis
 
 --- 
 
-
----
-
-## 🧠 What I’m doing now
-
-* Mentoring peers in systems, architecture, and intro security as an ACM Mentor.
-* Prototyping AI‑driven content analysis workflows; documenting data flows and tests.
-* Exploring resilient networking/file‑transfer designs and IoT robotics on the Pi.
-
----
-
-
 ## 💼 Experience (selected)
 
 **ACM Mentor — UIUC ACM (Aug 2025 – Present, Urbana, IL)**
@@ -36,6 +24,26 @@ Relevant Coursework: Systems Programming, Database Systems, IoT, Algorithms, Dis
 
 ---
 
+## 📝 Research & Publications
+
+* **GEAR UP Research Assignment → ACM Digital Library:** [doi:10.1145/3632620.3671123](https://dl.acm.org/doi/10.1145/3632620.3671123)
+  *Focus:* computing education research methods; literature synthesis and data interpretation.
+
+### Research — Tech & Methods
+
+* **Tools:** Python (Pandas, Jupyter), Excel/Google Sheets, LaTeX/Overleaf, Zotero, Markdown
+* **Methods:** literature review, qualitative coding & memoing, descriptive stats, data cleaning, visualization (matplotlib), reproducible notes & version control (Git)
+
+### Research — Soft Skills
+
+* Stakeholder communication with faculty & program leads
+* Clear technical writing (problem, method, findings, implications)
+* Collaboration & feedback loops; deadline-driven execution
+* Attention to detail, data ethics, and citation hygiene
+
+---
+
+
 ## 🧰 Tech I use
 
 **Languages:** Python • C/C++ • Bash • JavaScript/TypeScript • HTML/CSS
@@ -43,8 +51,13 @@ Relevant Coursework: Systems Programming, Database Systems, IoT, Algorithms, Dis
 **Frameworks/Libs:** FastAPI • Django • OpenCV • NumPy/Pandas • TFLite
 **Tools:** VS Code • Git • Nginx • MongoDB/Postgres
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white"/>
+</p>
 
-
-## 📌 Featured Projects
 
 
