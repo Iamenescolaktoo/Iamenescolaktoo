@@ -1,62 +1,82 @@
-# Hi, I’m **Hasan Enes Çolak** 👋
+# Hi, I’m Hasan Enes Colak 👋
 
-**B.S. in Computer Science — University of Illinois Urbana‑Champaign (Grainger College of Engineering), May 2026**
-Clubs: ACM @ UIUC
-Relevant Coursework: Systems Programming, Database Systems, IoT, Algorithms, Distributed Systems
+B.S. in Computer Science at the University of Illinois Urbana-Champaign (Grainger College of Engineering)  
+Expected Graduation: May 2026  
 
---- 
-
-**ACM Mentor — UIUC ACM (Aug 2025 – Present, Urbana, IL)**
-• Facilitate agile‑style mentorship: roadmaps, goals, iterative execution.
-• Lead biweekly workshops (systems, architecture, intro cybersecurity).
-• Align mentoring with chapter‑wide technical/pro dev goals.
-
-## 💼 Experience (selected)
-
-### 💾 Database Engineer Intern — Ankara, Türkiye *(Sep 2025 – May 2026)*
-- Designed and maintained a **MySQL** schema to store thousands of Turkish news articles with metadata (`publisher`, `date`, `URL`) and **NLP outputs** (`sentiment`, `entities`, `classifications`).
-- Normalized tables to reduce redundancy and boost query performance and data reliability.
-- Planned deployment on **Google Cloud Platform (GCP)** for fast filtering and retrieval of processed datasets.
-
-### ⚙️ Technical Solutions Engineer Intern — Ankara, Türkiye *(Jun 2025 – Aug 2025)*
-- Worked with a **3-person engineering team** to build an **automated data pipeline** for real-time analysis of Turkish news and political trends.
-- Integrated **OpenAI APIs** to automatically evaluate `sentiment`, `toxicity`, and `significance` scores.
-- Developed an **interactive dashboard** using `Flask`, `Streamlit`, and `Pandas` for real-time visualization.
-
-
-**Research Assistant (GEARUP) — UIUC (Jun 2024 – May 2025)**
-• Research + data interpretation for computing curricula; feedback loops and UX‑driven improvements.
-
+Relevant Coursework: Database Systems, Networked IoT Systems, Data Management in the Cloud, Cloud Computing Applications, Natural Language Processing  
+Clubs: ACM @ UIUC  
 
 ---
 
-## 📝 Research & Publications
+## Experience
 
+### Technical Solutions Engineer Intern — HAVELSAN  
+Ankara, Türkiye | June 2025 – Aug 2025
+
+- Worked in a three person engineering team to build a production style data processing pipeline for continuous ingestion, transformation, and analysis of Turkish news streams  
+- Integrated local LLM inference using Ollama into a Python backend built with Flask, requests, and feedparser to enrich articles with sentiment, toxicity, and significance metrics  
+- Developed and deployed a web based analytics dashboard using Flask, Streamlit, and Pandas for real time exploration of processed news data  
+
+---
+
+### Research Assistant — University of Illinois Urbana-Champaign  
+Urbana, IL | May 2024 – Aug 2024
 * **GEAR UP Research Assignment → ACM Digital Library:** [doi:10.1145/3632620.3671123](https://dl.acm.org/doi/10.1145/3632620.3671123)
-● Collaborated on a study of 20 conversational programmers (non-CS majors), designing surveys grounded in
-Expectancy–Value Theory.
-● Performed data analysis on non-major surveys, combining summaries with hypothesis testing to surface motivation,
-self-efficacy, and goals.
-● Co-authored findings published at ACM ICER '24, showing conversational programmers were the largest group among
-non-majors, with paradoxical motivations driven more by interest in computing than its utility.
+- Designed and analyzed surveys of 20 non CS conversational programmers using Expectancy Value Theory  
+- Conducted statistical analysis to evaluate motivation, self efficacy, and learning goals  
+- Co authored findings published at ACM ICER 2024 on interest driven computing adoption among non CS students  
 
 ---
 
+### Engineering Tutor — City Colleges of Chicago  
+Chicago, IL | Jan 2023 – May 2024
 
-## 🧰 Tech I use
+- Supported General Chemistry I students through recitations, open labs, and one on one tutoring  
+- Created focused study guides and practice sets that improved quiz performance and student retention  
 
-**Languages:** Python • C/C++ • Bash • JavaScript/TypeScript • HTML/CSS
-**Platforms:** Raspberry Pi • Linux • Docker • GitHub Actions
-**Frameworks/Libs:** FastAPI • Django • OpenCV • NumPy/Pandas • TFLite
-**Tools:** VS Code • Git • Nginx • MongoDB/Postgres
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white"/>
-</p>
+## Projects
 
+### Data Automation System — Dec 2025
 
+- Collaborated in a team of four to build a data automation system that helped dental professionals identify and connect with nearby specialized dental practices for referral partnerships  
+- Developed Python scripts using requests, BeautifulSoup, and regex to scrape, extract, and validate practice email addresses from public web sources  
+- Integrated local LLM inference using Ollama into the email automation workflow to generate customized outreach emails from structured practice metadata  
 
+---
+
+### Cloud IoT Data Pipeline — Nov 2025
+
+- Built a cloud based IoT data pipeline to handle simulated vehicle telemetry using AWS IoT Core and Greengrass  
+- Implemented real time data ingestion and processing in Python to compute per device CO2 emission values and stream results to Amazon S3  
+- Enabled querying, visualization, and security monitoring using AWS Athena, SageMaker notebooks, and AWS IoT Device Defender across an emulated device fleet  
+
+---
+
+### Database System — May 2025
+
+- Collaborated in a team of four to build a database backed web application using MySQL on Google Cloud SQL to support querying and exploration of over 2000 processor records  
+- Wrote and optimized SQL queries to support filtering and lookup functionality, adding indexes on frequently queried columns and improving query response times by roughly 20 percent for common filters  
+- Applied relational database concepts including schema design, primary and foreign keys, and normalization to maintain data consistency and integrity  
+
+---
+
+## Skills
+
+Languages: Python, SQL, JavaScript, Bash  
+
+Backend and Data Processing: Flask, Streamlit, Pandas, requests, BeautifulSoup, regex  
+
+Databases and Cloud Platforms: MySQL, PostgreSQL, SQLite, Google Cloud SQL, Google Cloud Platform, AWS IoT Core, Amazon S3, AWS Athena  
+
+Data and Systems Concepts: Data Pipelines, ETL, Relational Modeling, SQL Optimization, Indexing, API Integration  
+
+Applied ML and Computer Vision: Ollama, OpenCV, TensorFlow Lite, NumPy  
+
+---
+
+📫 Contact  
+Email: hasancowork@gmail.com  
+LinkedIn: https://linkedin.com/in/iamenescolak  
+GitHub: https://github.com/Iamenescolaktoo  
